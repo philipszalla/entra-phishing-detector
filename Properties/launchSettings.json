@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "entra_phishing_detector": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7274",
+      "launchBrowser": false
+    }
+  }
+}
